@@ -1,4 +1,4 @@
-# Hora do dia
+# ⏰ Hora do dia ⏰
 ... Description
 
 Este programa foi desenvolvido para a disciplina de 'Tecnologia de desenvolvimento para Internet II' , o mesmo muda de imagem conforme a hora do dia e indica que horas são.
